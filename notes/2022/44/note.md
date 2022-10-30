@@ -44,3 +44,9 @@ what is atomic designの手前まで
 原子から世の中のものが構成されているように、インターフェースの基本要素に分解して
 組み上げられることを述べている。
 
+what is atomic designの章が各要素(atom, molecules and more)の説明だったため一旦飛ばす。
+あくまでデザインシステムの構成方法として述べている。
+
+以下がいろんなデザパタを例にあげてて面白い
+https://zenn.dev/mutex_inc/articles/beca85dd7fdcae
+
